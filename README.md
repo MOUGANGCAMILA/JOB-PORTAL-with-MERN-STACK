@@ -49,10 +49,10 @@ SMTP_FROM="Gmail <your_email@gmail.com>"
 # frontend localhost " http://localhost:3000 "
 
 # JOB PORTAL 1 
-  it has working FORGOT PASSWORD, but the role takes only 0 
+  it has working FORGOT PASSWORD, but the role takes only 0, therefore admin login does not work
 
 # JOB PORTAL 2
-   it has a working role ( role =  0 or 1 )  but the forgot password does not work 
+   it has a working role ( role =  0 {user} or 1 {admin} for User registration )  but the forgot password does not work. The admin login does not also work
 
 
    ### RUN code
