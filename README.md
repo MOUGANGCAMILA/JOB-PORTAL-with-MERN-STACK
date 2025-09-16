@@ -48,6 +48,10 @@ SMTP_FROM="Gmail <your_email@gmail.com>"
 
 # frontend localhost " http://localhost:3000 "
 
+
+
+## CHALLENGES
+
 # JOB PORTAL 1 
   it has working FORGOT PASSWORD, but the role takes only 0, therefore admin login does not work
 
